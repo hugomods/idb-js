@@ -1,0 +1,5 @@
+[[module.imports]]
+path = "github.com/jakearchibald/idb"
+[[module.imports.mounts]]
+source = "src"
+target = "assets/idb"
